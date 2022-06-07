@@ -3,10 +3,12 @@ package StreamAPI;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StreamApi2 {
+public class StreamApi2 
+{
 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		
 		List<Integer> numbers = new ArrayList<>();
 		numbers.add(26);

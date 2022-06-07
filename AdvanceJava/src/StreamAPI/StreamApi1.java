@@ -4,9 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class StreamApi1 {
+public class StreamApi1 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		
 		ArrayList<Integer> ji = new ArrayList<Integer>();
 		ji.add(0);
