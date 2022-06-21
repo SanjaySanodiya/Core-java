@@ -1,6 +1,6 @@
 package multilevelInheritence;
 
-class Animal
+class Ani
 {  
    
 	void eat()
@@ -9,7 +9,7 @@ class Animal
 	}  
 } 
 
-class Dog extends Animal
+class Dog extends Ani
 {  
 	
     void bark()
@@ -25,6 +25,7 @@ class BabyDog extends Dog
     	System.out.println("weeping..."); 
     }  
 
+    
 }
 class TestInheritance2
 {  
